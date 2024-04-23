@@ -1,7 +1,3 @@
-Nice simple guessing game! Here's how you could structure a README for it:
-
----
-
 # Simple Guessing Game
 
 ## Description
