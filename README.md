@@ -4,7 +4,7 @@
 
 This is a simple Python guessing game where the player tries to guess a secret number within a limited number of attempts.
 
-## How to Play
+## How to Play the game
 
 1. Run the Python script `guessing_game.py`.
 2. The game will generate a secret number.
